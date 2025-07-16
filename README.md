@@ -6,7 +6,7 @@ This project analyzes the background of data professionals using survey data. It
 
 ## 📌 Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](Screenshot 2025-07-16 180043.png)
 
 ---
 
