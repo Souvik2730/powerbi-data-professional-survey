@@ -6,7 +6,7 @@ This project analyzes the background of data professionals using survey data. It
 
 ## 📌 Dashboard Preview
 
-![Dashboard Screenshot](Screenshot 2025-07-16 180043.png?raw=true)
+![Dashboard Screenshot](https://github.com/Souvik2730/powerbi-data-professional-survey/blob/main/screenshots/dashboard.png?raw=true)
 
 ---
 
